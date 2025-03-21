@@ -1,6 +1,6 @@
 ## Project info
 
-**URL**: [https://projects-viewer.vercel.app/](https://spectra-viewer.vercel.app/)
+**URL**: [https://spectra-viewer.vercel.app/](https://spectra-viewer.vercel.app/)
 
 ## To Clone | Follow these steps:
 
