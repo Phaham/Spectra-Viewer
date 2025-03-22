@@ -8,31 +8,76 @@ import type { Project } from "@/types/project";
 // Sample certifications data - replace with your actual certifications
 const certifications: Project[] = [
   {
-    id: "cert1",
-    title: "The Complete JavaScript Course",
-    description: "Master JavaScript with the most comprehensive course. Includes projects like Forkify, Bankist, and more.",
-    image: "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?q=80&w=2070&auto=format&fit=crop",
-    link: "https://www.udemy.com/certificate/sample",
-    codeLink: "",
-    technologies: ["JavaScript", "ES6+", "OOP", "Async JS"],
+    "id": "cert2",
+    "title": "Introduction to C++",
+    "description": "Certification for successfully completing the Introduction to C++ course.",
+    "image": "/images/cpp2.png",
+    "link": "https://certificate.codingninjas.com/verify/9f0cdab50eb5c785",
+    "codeLink": "",
+    "technologies": ["C++", "Programming Basics"]
   },
   {
-    id: "cert2",
-    title: "React - The Complete Guide",
-    description: "Comprehensive guide to modern React, including Hooks, Redux, React Router, and more.",
-    image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?q=80&w=2070&auto=format&fit=crop",
-    link: "https://www.udemy.com/certificate/sample",
-    codeLink: "",
-    technologies: ["React", "Redux", "React Router", "Hooks"],
+    "id": "cert3",
+    "title": "Data Structures in C++",
+    "description": "Certification for successfully completing Data Structures in C++.",
+    "image": "/images/dsa2.png",
+    "link": "https://certificate.codingninjas.com/verify/72509b5e26bef8d6",
+    "codeLink": "",
+    "technologies": ["C++", "Data Structures"]
   },
   {
-    id: "cert3",
-    title: "Node.js, Express, MongoDB & More",
-    description: "Build complete backend APIs with Node.js, Express, MongoDB and more.",
-    image: "https://images.unsplash.com/photo-1614064642761-694326f89512?q=80&w=1775&auto=format&fit=crop",
-    link: "https://www.udemy.com/certificate/sample",
-    codeLink: "",
-    technologies: ["Node.js", "Express", "MongoDB", "Mongoose"],
+    "id": "cert4",
+    "title": "Operating Systems",
+    "description": "Certification for successfully completing the Operating Systems course.",
+    "image": "/images/os.png",
+    "link": "certificate.codingninjas.com/verify/b6685ca35f1a49b4",
+    "codeLink": "",
+    "technologies": ["Operating Systems", "Memory Management"]
+  },
+  {
+    "id": "cert5",
+    "title": "System Design",
+    "description": "Certification for successfully completing the System Design course.",
+    "image": "/images/sd.png",
+    "link": "certificate.codingninjas.com/verify/ec8808e4d79b4023",
+    "codeLink": "",
+    "technologies": ["System Design", "Scalability"]
+  },
+  {
+    "id": "cert7",
+    "title": "The Complete JavaScript Course",
+    "description": "Certification for successfully completing The Complete JavaScript Course 2022.",
+    "image": "/images/js.png",
+    "link": "https://www.udemy.com/certificate/UC-941ffa58-e5a7-41a3-a656-cc4d7ca125c5/",
+    "codeLink": "",
+    "technologies": ["JavaScript", "ES6+", "OOP", "Async JS"]
+  },
+  {
+    "id": "cert8",
+    "title": "Node.js, Express, MongoDB & More",
+    "description": "Certification for successfully completing the Node.js, Express, MongoDB Bootcamp 2023.",
+    "image": "/images/node.png",
+    "link": "https://www.udemy.com/certificate/UC-6399fd0e-4c10-4fe7-a052-c3a5c8d86348/",
+    "codeLink": "",
+    "technologies": ["Node.js", "Express", "MongoDB", "Mongoose"]
+  },
+  {
+    "id": "cert6",
+    "title": "Build Responsive Real-World Websites with HTML and CSS",
+    "description": "Certification for successfully completing the web development course.",
+    "image": "/images/html.png",
+    "link": "ude.my/UC-1842478c-a9b3-48b5-bd59-3051276767fa",
+    "codeLink": "",
+    "technologies": ["HTML", "CSS", "Responsive Design"]
+  },
+  {
+    "id": "cert9",
+    "title": "Introduction to Career Skills in Software Development",
+    "description": "Certification for successfully completing the LinkedIn Learning course on career skills in software development.",
+    "image": "/images/sd1.png",
+    "link": "https://drive.google.com/drive/u/1/folders/1iZQY8NKm2AMC3VmdYQxIR-hSZRzvfL82",
+    "codeLink": "",
+    "technologies": ["Career Development", "Software Engineering"]
   }
 ];
 
