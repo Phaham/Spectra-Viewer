@@ -21,7 +21,7 @@ const certifications: Project[] = [
     "title": "Data Structures in C++",
     "description": "Certification for successfully completing Data Structures in C++.",
     "image": "/images/dsa2.png",
-    "link": "https://certificate.codingninjas.com/verify/72509b5e26bef8d6",
+    "link": "https://certificate.codingninjas.com/verify/973b286f1d4f322a",
     "codeLink": "",
     "technologies": ["C++", "Data Structures"]
   },
