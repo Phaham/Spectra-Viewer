@@ -8,6 +8,15 @@ import type { Project } from "@/types/project";
 // Sample certifications data - replace with your actual certifications
 const certifications: Project[] = [
   {
+    "id": "cert1",
+    "title": "DBMS | Database Management System",
+    "description": "Certification for successfully completing the DBMS course.",
+    "image": "/images/dbms.png",
+    "link": "https://certificate.codingninjas.com/verify/f29a231048077eff",
+    "codeLink": "",
+    "technologies": ["MySQL", "Database Management", "SQL"]
+  },
+  {
     "id": "cert2",
     "title": "Introduction to C++",
     "description": "Certification for successfully completing the Introduction to C++ course.",
