@@ -30,7 +30,7 @@ const certifications: Project[] = [
     "title": "Operating Systems",
     "description": "Certification for successfully completing the Operating Systems course.",
     "image": "/images/os.png",
-    "link": "certificate.codingninjas.com/verify/b6685ca35f1a49b4",
+    "link": "https://certificate.codingninjas.com/verify/b6685ca35f1a49b4",
     "codeLink": "",
     "technologies": ["Operating Systems", "Memory Management"]
   },
