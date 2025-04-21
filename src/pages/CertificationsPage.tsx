@@ -39,7 +39,7 @@ const certifications: Project[] = [
     "title": "System Design",
     "description": "Certification for successfully completing the System Design course.",
     "image": "/images/sd.png",
-    "link": "certificate.codingninjas.com/verify/ec8808e4d79b4023",
+    "link": "https://certificate.codingninjas.com/verify/ec8808e4d79b4023",
     "codeLink": "",
     "technologies": ["System Design", "Scalability"]
   },
