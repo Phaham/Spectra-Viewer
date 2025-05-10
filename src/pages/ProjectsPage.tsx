@@ -32,7 +32,7 @@ const projects: Project[] = [
     link: "https://forkifyfast.netlify.app/",
     codeLink: "https://github.com/Phaham/Forkify",
     technologies: ["HTML", "CSS", "JavaScript", "REST APIs"],
-  },
+  }, 
   {
     id: "3",
     title: "Bank App",

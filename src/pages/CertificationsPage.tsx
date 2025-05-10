@@ -87,6 +87,15 @@ const certifications: Project[] = [
     "link": "https://drive.google.com/drive/u/1/folders/1iZQY8NKm2AMC3VmdYQxIR-hSZRzvfL82",
     "codeLink": "",
     "technologies": ["Career Development", "Software Engineering"]
+  },
+  {
+    "id": "cert10",
+    "title": "Certificate Of Merit | HighSchool | CBSE",
+    "description": "Achieved certificate of merit in Highschool for scoring 10 CGPA (A1s in all subjects).",
+    "image": "/images/highschool.jpg",
+    "link": "https://drive.google.com/file/d/171PCtT9hbNubjjiPJxQzQuIrX-oO2wz0/view?usp=sharing",
+    "codeLink": "",
+    "technologies": [""]
   }
 ];
 
