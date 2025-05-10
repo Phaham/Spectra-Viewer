@@ -59,6 +59,15 @@ const projects: Project[] = [
     link: "https://planyourfood.netlify.app/",
     codeLink: "https://github.com/Phaham/Omnifood",
     technologies: ["HTML", "CSS", "JavaScript"],
+  },
+  {
+    id: "7",
+    title: "First Portfolio",
+    description: "My first portfolio website showcasing my projects and skills. A simple yet elegant design to present my work.",
+    image: "/images/first-portfolio.png",
+    link: "https:/phaham-portfolio.netlify.app/",
+    codeLink: "https://github.com/Phaham/Portfolio",
+    technologies: ["HTML", "CSS", "JavaScript"],
   }
 ];
 
