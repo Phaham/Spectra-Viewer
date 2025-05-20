@@ -7,6 +7,15 @@ import type { Project } from "@/types/project";
 
 const projects: Project[] = [
   {
+    id: "8",
+    title: "Hangman - Word Guessing Game",
+    description: "A fun to play word guessing game with cool animations",
+    image: "/images/hangman.png",
+    link: "https://hangmans-app.netlify.app/",
+    codeLink: "https://github.com/Phaham/HangMan-Word-Guessing-Game",
+    technologies: ["React.js", "CSS", "TypeScript"],
+  },
+  {
     id: "1",
     title: "TripHive - Travel Planner",
     description: "A full stack booking web application with features like user authentication, booking tours, stripe payment gateway, and reviews system. Experience seamless travel planning with integrated payment processing.",
